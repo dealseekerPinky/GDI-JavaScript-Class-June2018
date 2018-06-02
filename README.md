@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]: http://girldevelopit.github.io/gdi-featured-js-intro/dist/img/circle-gdi-logo.png
+[logo]: https://ci4.googleusercontent.com/proxy/jDgsPbcTsgtpMgrvjNUd0chFuglBNwSYrd_YR3v7NlGpcvDQMw6wgD0mmCcuy2tAZtCE9eT3H6Dq7yEq4gJd2W-f1T12GjOFAooCa5HXxkeqxeaoR3Tkff-SMXX7TSr0K7lfEkk1fpQSkUMyvAxmCNKXSwu85ibSD0A9BwogpEsvH2OosSGmKi1r1TLjpwCKP7M7e3YFC8Y7dQc=s0-d-e1-ft#https://docs.google.com/uc?export=download&id=0B46yyBTteBhfN2FyYkVOWE54QzQ&revid=0B46yyBTteBhfQXo4SFFSN1pmeTJzQ0tSaXAvVExOcnJWUkJRPQ
 # GDI-JavaScript-Class
 ---
 
