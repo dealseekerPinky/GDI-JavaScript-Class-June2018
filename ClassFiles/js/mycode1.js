@@ -15,8 +15,7 @@
 	Move your code to this file and link it to your page.
 */
 function secretMessage(){
-  alert('Hello World!');
-  console.log('Secret message');
+
 }
 
 /*
@@ -28,11 +27,7 @@ function secretMessage(){
 	Move your code to this file and link it to your page.
 */
 function consoleExample(){
-	alert('Hello World!');
-	console.log('Secret message');
-	console.log('Hello World!');
-	console.log('I am glad to meet you');
-	console.log('I am fuzzy');
+
 }
 
 /*
@@ -41,8 +36,7 @@ function consoleExample(){
 	value. Then, display the value.
 */
 function createVariable(){
-	var kitty = 5;
-	console.log(kitty);
+
 }
 
 /*
@@ -51,10 +45,7 @@ function createVariable(){
 	Don't forget to display your results!
 */
 function arithmetic(){	
-	var numberOfKittens = 5;
-	var numberOfPuppies = 5;
-	var totalAnimals = numberOfKittens + numberOfPuppies;
-    console.log(totalAnimals);
+
 };
 /*
 	Let’s Develop It 1.5 
@@ -65,10 +56,7 @@ function arithmetic(){
 	You can run it in mycode.js.
 */
 function stringFunction(){
-    var numberOfFruit = 6;
-    var typeOfFruit = 'bananas';
-    var allTheFruit = 'I have ' + numberOfFruit + ' ' + typeOfFruit + '!';
-    console.log(allTheFruit);
+
 }
 /*
 	Let’s Develop It 1.6
@@ -80,11 +68,7 @@ function stringFunction(){
 	Bonus: Use toFixed() to round the bill total to 2 decimals.
 */
 function restaurant(){
-	var billPreTip = 10;
-	var tipPercent = 0.15; // Can be changed
-	var billTip = billPreTip * tipPercent;
-	var receipt = 'Meal: ' + billPreTip + ' Tip: ' + billTip + ' Total: ' + (billPreTip + billTip).toFixed(2) ;
-	console.log(receipt);
+
 }
 
 
