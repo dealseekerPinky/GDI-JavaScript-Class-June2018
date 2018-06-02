@@ -80,9 +80,9 @@ function stringFunction(){
 	Bonus: Use toFixed() to round the bill total to 2 decimals.
 */
 function restaurant(){
-	var billPreTip = 10;
-	var tipPercent = 0.15; // Can be changed
-	var billTip = billPreTip * tipPercent;
+	var billPreTip = 13.60;
+	var tipPercent = 0.05; // Can be changed
+	var billTip = billPreTip.toFixed(2) * tipPercent.toFixed(2);
 	var receipt = 'Meal: ' + billPreTip + ' Tip: ' + billTip + ' Total: ' + (billPreTip + billTip).toFixed(2) ;
 	console.log(receipt);
 }
