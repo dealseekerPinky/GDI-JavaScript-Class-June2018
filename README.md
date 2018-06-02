@@ -1,4 +1,5 @@
 ![alt text][logo]
+
 [logo]: http://girldevelopit.github.io/gdi-featured-js-intro/dist/img/circle-gdi-logo.png
 # GDI-JavaScript-Class
 ---
