@@ -13,7 +13,7 @@ This is the Girl Develop It Intro JavaScript course. Material based on original 
 
 [Google Doc with Slides](https://docs.google.com/document/d/e/2PACX-1vQuUwBnt0YhsDTxpTAfk0Q4j1FZUxLkkbqfbhqeVrT7OnhAceVcV5LuUqPer3z3Rf2zN0FNxkPCantn/pub)
 
-**Class 1:** Introduction to JavaScript and Basic Programming Concepts
+**Class 1:** Introduction to JavaScript and Basic Programming Concepts <br>
 **Class 2:** Functions and Control Flow
 
 ---
